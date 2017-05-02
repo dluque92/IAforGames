@@ -1,0 +1,18 @@
+package Ejercicio2_c;
+
+public class TextoColoreado extends TextoDecorador{
+
+	public TextoColoreado(Texto t) {
+		super(t);
+	}
+	
+	public void dibujar(){
+		this.dibujarColoreado();
+	}
+	
+	private void dibujarColoreado(){
+		// Dibujar el texto Coloreado
+	}
+
+}
+

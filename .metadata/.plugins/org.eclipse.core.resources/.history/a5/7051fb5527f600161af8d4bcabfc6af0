@@ -1,0 +1,11 @@
+package Ejercicio2_c;
+
+public class TextoSimple extends Texto{
+
+	@Override
+	public void dibujar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

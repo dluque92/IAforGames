@@ -1,0 +1,10 @@
+package Ejercicio2_c;
+
+public class TextoConScroll extends TextoDecorador{
+
+	public TextoConScroll(Texto t) {
+		super(t);
+		// TODO Auto-generated constructor stub
+	}
+
+}

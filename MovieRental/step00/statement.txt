@@ -1,0 +1,31 @@
+--
+Rental Record for Adams
+	3	Jaws			3.5
+	2	Fantasia 2000		1.5
+	1	X Men			3.0
+Amount owed is 8.0
+You earned 3 frequent renter points
+
+--
+Rental Record for Jones
+	2	Apocalypse Now		2.0
+	4	101 Dalmatians		3.0
+	6	Dancing in the Dark	18.0
+Amount owed is 23.0
+You earned 4 frequent renter points
+
+--Rental Record for Smith
+	1	Apocalypse Now		2.0
+	4	Jaws			5.0
+	1	101 Dalmatians		1.5
+	4	Fantasia 2000		3.0
+	1	Dancing in the Dark	3.0
+	4	X Men			12.0
+Amount owed is 26.5
+You earned 7 frequent renter points
+
+--
+Rental Record for Zero
+Amount owed is 0.0
+You earned 0 frequent renter points
+	

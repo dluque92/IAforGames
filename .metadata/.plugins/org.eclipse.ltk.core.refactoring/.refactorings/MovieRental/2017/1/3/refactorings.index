@@ -1,0 +1,9 @@
+1484828694974	Delete element
+1484828727437	Delete element
+1484829728323	Extract method 'amountFor'
+1484829810578	Rename local variable 'each'
+1484830338642	Inline local variable 'thisAmount'
+1484830442696	Move method 'amountFor'
+1484831181497	Extract method 'getFrequentRenterPoints'
+1484831211652	Rename local variable 'frequentRenterPoints'
+1484831231593	Move method 'getFrequentRenterPoints'

@@ -1,0 +1,13 @@
+package Ejercicio2_c;
+
+public class TextoDecorador extends Texto{
+
+	public Texto texto;
+	
+	@Override
+	public void dibujar() {
+		texto.dibujar();
+		
+	}
+
+}

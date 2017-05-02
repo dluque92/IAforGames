@@ -1,0 +1,7 @@
+package Ejercicio2_c;
+
+public interface Texto {
+	
+	public abstract void dibujar();
+
+}

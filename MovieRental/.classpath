@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="step00"/>
+	<classpathentry kind="src" path="step01"/>
+	<classpathentry kind="src" path="step02"/>
+	<classpathentry kind="src" path="step03"/>
+	<classpathentry kind="src" path="step04"/>
+	<classpathentry kind="src" path="step05"/>
+	<classpathentry kind="src" path="step06"/>
+	<classpathentry kind="src" path="step07"/>
+	<classpathentry kind="src" path="step08"/>
+	<classpathentry kind="src" path="step09"/>
+	<classpathentry kind="src" path="step10"/>
+	<classpathentry kind="src" path="step11"/>
+	<classpathentry kind="src" path="step12"/>
+	<classpathentry kind="src" path="step13"/>
+	<classpathentry kind="src" path="step14"/>
+	<classpathentry kind="src" path="step15"/>
+	<classpathentry kind="src" path="step16"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
